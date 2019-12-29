@@ -1,5 +1,5 @@
 # ChessWishes
-#####Minijuego hecho para la Jam PL 2019
+##### Minijuego hecho para la Jam PL 2019
 
 Prototipo del proyecto ChessWishes
 
